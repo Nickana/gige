@@ -1,0 +1,4 @@
+opencv-python
+PySide2~=5.15.2.1
+harvesters~=1.4.2
+pyinstaller
